@@ -5,21 +5,21 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter-roll_dice-main",
-            "cwd": "flutter-roll_dice-main",
+            "name": "flutter-magic-8-ball-main",
+            "cwd": "flutter-magic-8-ball-main",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "flutter-roll_dice-main (profile mode)",
-            "cwd": "flutter-roll_dice-main",
+            "name": "flutter-magic-8-ball-main (profile mode)",
+            "cwd": "flutter-magic-8-ball-main",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "flutter-roll_dice-main (release mode)",
-            "cwd": "flutter-roll_dice-main",
+            "name": "flutter-magic-8-ball-main (release mode)",
+            "cwd": "flutter-magic-8-ball-main",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
