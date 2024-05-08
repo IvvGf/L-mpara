@@ -5,10 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter-magic-8-ball-main",
-            "cwd": "flutter-magic-8-ball-main",
+            "name": "flutter-magic-8-ball",
+            "cwd": "flutter-magic-8-ball",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "program": "flutter-magic-8-ball/lib/main.dart"
         },
         {
             "name": "flutter-magic-8-ball-main (profile mode)",
