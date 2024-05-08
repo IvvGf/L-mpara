@@ -9,7 +9,7 @@
             "cwd": "flutter-magic-8-ball",
             "request": "launch",
             "type": "dart",
-            "program": "flutter-magic-8-ball/lib/main.dart"
+            "program": "lib/main.dart"
         },
         {
             "name": "flutter-magic-8-ball-main (profile mode)",
